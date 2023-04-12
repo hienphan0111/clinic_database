@@ -78,3 +78,12 @@ create table medical_histories_treatments (
         references treatments(id)
         on delete cascade
 );
+
+-- create indexes -- 
+create index idx_patient_id on medical_histories (patient_id);
+
+create index idx_medical_history_id on invoices (medical_history_id);
+
+create index idx_treatment_id on invoice_items (treatment_id);
+
+create index idx_invoice_id on invoice_items (invoice_id);
