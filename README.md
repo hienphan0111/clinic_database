@@ -32,7 +32,6 @@ This project will build the database for clinic by using SQL.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -50,9 +49,6 @@ This project will build the database for clinic by using SQL.
 - **Create**
 - **Modify**
 - **Remove**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
