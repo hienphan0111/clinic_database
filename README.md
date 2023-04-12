@@ -83,13 +83,13 @@ Copy command on schema_base_on_diagram.sql and run on SQL Editor
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **HienPhan**
 
 - GitHub: [Github](https://github.com/hienphan0111)
 - Twitter: [Twister](https://twitter.com/hienphan0111)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hien-phan-61097b256/)
 
-👤 **Author2**
+👤 **Nezera**
 
 - GitHub: [Github](https://github.com/Nezerwa)
 - Twitter: [Twister](https://www.twitter.com/Eligrand1)
