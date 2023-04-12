@@ -40,3 +40,41 @@ create table invoices
         on delete cascade,
     primary key (id)
 );
+
+create table treatments (
+    id int generated always as identity, 
+    type varchar(100),
+    name varchar(100),
+    primary key (id)
+);
+
+create table invoice_items
+(
+    id int generated always as IDENTITY,
+    unit_price decimal, 
+    quantity int, 
+    total_price decimal, 
+    invoice_id int, 
+    treatment_id int,
+    constraint fk_treatment
+        foreign key (treatment_id)
+        references treatments(id)
+        on delete cascade,
+    constraint fk_invoice
+        foreign key (invoice_id)
+        references invoices(id)
+        on delete cascade
+);
+
+create table medical_histories_treatments (
+    medical_id int,
+    treatment_id int, 
+    constraint fk_medical_id
+        foreign key (medical_id)
+        references medical_histories(id)
+        on delete cascade,
+    constraint fk_treatment_id
+        foreign key (treatment_id)
+        references treatments(id)
+        on delete cascade
+);
