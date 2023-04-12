@@ -21,7 +21,6 @@ This project will build the database for clinic by using SQL.
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -86,9 +85,15 @@ Copy command on schema_base_on_diagram.sql and run on SQL Editor
 
 👤 **Author1**
 
-- GitHub: [@hienphan0111](https://github.com/hienphan0111)
-- Twitter: [@hienphan0111](https://twitter.com/twitterhandle)
+- GitHub: [Github](https://github.com/hienphan0111)
+- Twitter: [Twister](https://twitter.com/hienphan0111)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hien-phan-61097b256/)
+
+👤 **Author2**
+
+- GitHub: [Github](https://github.com/Nezerwa)
+- Twitter: [Twister](https://www.twitter.com/Eligrand1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eligrand-nezerwa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,13 +132,6 @@ If you like this project please give me a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse which provided me all knowledge about full stack development.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
